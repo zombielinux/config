@@ -14,7 +14,7 @@ Login as root and type:
 	- update board firmware
 	- toggle desktop, RDP and login manager (desktop builds)
 	- adjusting the display resolution (some boards)
-	- toggle running servives (stock Debian utility)
+	- toggle running services (stock Debian utility)
 	- enabling read only root filesystem (Ubuntu)
 	- install kernel headers
 - **networking**
